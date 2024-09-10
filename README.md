@@ -1,5 +1,5 @@
 TomoPomo
-Video Demo:  <URL HERE>
+Video Demo: https://youtu.be/9RIbjnn2edg
 Description: For my final project, I created a simple pomodoro timer using HTML, CSS, and JavaScript. The purpose of a pomodoro timer is to help increase your focus and productivity by completing tasks in small intervals. I chose this because I use pomodoro all the time, including with this course, and thought it’d be cool to create and utilize my own pomodoro timer. As I’m still a beginner, I hope to continue to work on this project and improve it as my skill set increases. 
 
 I first created an HTML file called index.html. In this file, I created my HTML structure with title, header, and main div which includes the timer-circle, and the control buttons. There are four buttons: restart, which restarts the timer, choose time, which allows you to choose how long you want the timer to be, and resume/pause button, which allows you to pause the timer and resume it as well. I included a viewport meta tag which controls how the website is viewed on other devices, such as mobiles or tablets. I also linked my CSS file which controls the design of the website, and my JavaScript file which makes the website dynamic. 
